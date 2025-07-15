@@ -8,7 +8,6 @@ public class Problem4 {
         System.out.println(countMultiples);
     }
 
-
     private static Map<Integer, Integer> countMultiples(int[] input) {
         Map<Integer, Integer> countMap = new HashMap<>();
 
